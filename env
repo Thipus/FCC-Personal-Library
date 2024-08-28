@@ -1,0 +1,2 @@
+DB='mongodb+srv://nl82709:Aldorande123@cluster0.qwmjd.mongodb.net/PLibrary?retryWrites=true&w=majority&appName=Cluster0'
+NODE_ENV=test
